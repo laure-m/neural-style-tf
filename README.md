@@ -3,7 +3,7 @@
 After installing the dependencies:
 
 **Download the VGG-19 model weights** (see the "VGG-VD models from the Very Deep Convolutional Networks for Large-Scale Visual Recognition project" section). More info about the VGG-19 network can be found https://www.robots.ox.ac.uk/~vgg/research/very_deep/ .
-After downloading, copy the weights file imagenet-vgg-verydeep-19.mat to the project directory.
+After downloading, copy the weights file **imagenet-vgg-verydeep-19.mat** to the project directory.
 
 .
 .

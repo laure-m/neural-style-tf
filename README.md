@@ -24,15 +24,3 @@ The implementation is based on the projects:
 
 Torch (Lua) implementation 'neural-style' by jcjohnson
 Torch (Lua) implementation 'artistic-videos' by manuelruder
-
-**Citation**
-If you find this code useful for your research, please cite:
-
-@misc{Smith2016,
-  author = {Smith, Cameron},
-  title = {neural-style-tf},
-  year = {2016},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/cysmith/neural-style-tf}},
-}
